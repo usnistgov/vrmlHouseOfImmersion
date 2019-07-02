@@ -24,7 +24,8 @@ Mark Pflaging  (now at GWU)
 and
 Alan Sun (now at MIT).
 ```
-![VRML House of Immersion]
+![VRML House of Immersion](https://github.com/usnistgov/vrmlHouseOfImmersion/blob/master/vrmlHOI.png "VRML House of Immersion")
+
 Organizational affiliations mentioned in the above comments are far out of date.
 
 Other file format conversions of this file will be added. 

@@ -2,7 +2,7 @@
 A repository for a historically interesting file we created at NIST to help test VRML1 plugins and browsers. We are resurrecting it in multiple formats for use by the web graphics (or anyone else) community.
 
 The comments of the top of the original file state:
-```javascript
+```
 #VRML V1.0 ascii
 #House of Immersion Revision History
 # 11/9/95 validated - Sandy

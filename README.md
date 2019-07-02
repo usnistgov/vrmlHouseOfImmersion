@@ -25,6 +25,6 @@ and
 Alan Sun (now at MIT).
 ```
 
-Organizations affiliations mentioned in the above comments are far out of date.
+Organizational affiliations mentioned in the above comments are far out of date.
 
 Other file format conversions of this file will be added. 

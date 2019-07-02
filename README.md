@@ -28,3 +28,13 @@ Alan Sun (now at MIT).
 Organizational affiliations mentioned in the above comments are far out of date.
 
 Other file format conversions of this file will be added. 
+
+## Conversion to VRML2 (also commonly called VRML97)
+The original VRML1 file format is now quite difficult to work with, not much reads it.
+In order to do much of anything it's wise to convert to VRML2 and go from there. To convert from VRML1 to VRML2 there is a useful
+utility (we think created by SGI) at the page: http://www.interocitors.com/polyhedra/vr1tovr2/index.html
+
+Download the zip file linked to on that page and execute on a PC. The executable takes 2 arguments inputfile and outputfile.
+To execute: vrml1tovrml2 inputVRML1File outputVRML2File
+
+The result of this execution is include in this repository as vrml2HouseOfImmersion.wrl

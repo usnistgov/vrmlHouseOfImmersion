@@ -38,6 +38,9 @@ utility (we think created by SGI) at the page: http://www.interocitors.com/polyh
 Download the zip file linked to on that page and execute on a PC. The executable takes 2 arguments inputfile and outputfile.
 To execute: vrml1tovrml2 inputVRML1File outputVRML2File
 
+## Movie of walkthrough
+The file vrmlHouseOfImmersion.mov is a QuickTime movie created by screenrecording moving from one viewpoint to the next (these are the original viewpoints defined in the original file!) using Fraunhofer's InstantPlayer on a Mac.
+
 The result of this execution is include in this repository as vrml2HouseOfImmersion.wrl
 ### Disclaimer
 The views presented here are those of the author(s) and do not necessarily represent the views or policies of NIST. Any mention of commercial products within this repository is for information only; it does not imply recommendation or endorsement by NIST.

@@ -24,7 +24,7 @@ Mark Pflaging  (now at GWU)
 and
 Alan Sun (now at MIT).
 ```
-![VRML House of Immersion](https://github.com/usnistgov/vrmlHouseOfImmersion/blob/master/vrmlHOI.png "VRML House of Immersion")
+![VRML House of Immersion](https://github.com/usnistgov/vrmlHouseOfImmersion/blob/master/vrmlHOI.png "VRML House of Immersion") 
 
 Organizational affiliations mentioned in the above comments are far out of date.
 
@@ -42,5 +42,9 @@ To execute: vrml1tovrml2 inputVRML1File outputVRML2File
 The file vrmlHouseOfImmersion.mov is a QuickTime movie created by screenrecording moving from one viewpoint to the next (these are the original viewpoints defined in the original file!) using Fraunhofer's InstantPlayer on a Mac.
 
 The result of this execution is include in this repository as vrml2HouseOfImmersion.wrl
+
+<img src="https://github.com/usnistgov/vrmlHouseOfImmersion/blob/master/vhoi1.png" height="120" width="170"> <img src="https://github.com/usnistgov/vrmlHouseOfImmersion/blob/master/vhoi2.png" height="120" width="170"> <img src="https://github.com/usnistgov/vrmlHouseOfImmersion/blob/master/vhoi3.png" height="120" width="170"> <img src="https://github.com/usnistgov/vrmlHouseOfImmersion/blob/master/vhoi4.png" height="120" width="170">
+
+
 ### Disclaimer
 The views presented here are those of the author(s) and do not necessarily represent the views or policies of NIST. Any mention of commercial products within this repository is for information only; it does not imply recommendation or endorsement by NIST.
